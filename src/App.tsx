@@ -11,6 +11,7 @@ import PendingApprovals from "@/pages/am/PendingApprovals";
 import ClientsPage from "@/pages/am/ClientsPage";
 import VehiclesPage from "@/pages/am/VehiclesPage";
 import IncidentsPage from "@/pages/am/IncidentsPage";
+import IncidentDetailPage from "@/pages/am/IncidentDetailPage";
 import ServiceProvidersPage from "@/pages/am/ServiceProvidersPage";
 import SettingsPage from "@/pages/am/SettingsPage";
 import InvoicesPage from "@/pages/finance/InvoicesPage";
